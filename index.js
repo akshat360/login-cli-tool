@@ -56,7 +56,5 @@ const welcome = () => {
     })
 }
 
-
-
 // start program
 welcome();
