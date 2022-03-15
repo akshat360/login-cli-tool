@@ -31,8 +31,25 @@ $ npm i login-cli-tool
 ```sh
 $ npx login-cli-tool
 ```
-## Build under assignment By 
+## Running Locally
+>Clone locally with https
+```sh
+$ git clone https://github.com/akshat360/login-cli-tool.git
+```
+
+>Change directory to login-cli-tool
+```sh
+$ cd login-cli-tool
+```
+
+>Run locally
+```sh
+$ node .
+```
+## Author 
 [Akshat Aggarwal](https://devakshat.netlify.app/)
+
 [LinkedIn](https://www.linkedin.com/in/akshat360/)
+
 [Github](https://github.com/akshat360)
 
