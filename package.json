@@ -1,5 +1,5 @@
 {
-  "name": "login",
+  "name": "login-cli-tool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,12 +7,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "chalk": "^5.0.1",
     "figlet": "^1.5.2",
-    "inquirer": "^8.2.1"
+    "inquirer": "^8.2.1",
+    "login-cli-tool": "^1.0.0"
   }
 }
