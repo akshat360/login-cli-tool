@@ -4,7 +4,7 @@
 <!-- [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) -->
 
 
-> Write a project description
+> to save user in root directory, you can also display and logout user.
 
 ## Prerequisites
 
